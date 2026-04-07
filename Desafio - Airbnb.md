@@ -17,5 +17,5 @@ O projeto foi estruturado em um modelo estrela para otimizar as consultas analí
 - Normalização de dados brutos (CSV) para um ambiente analítico íntegro.
 
 ## Como Executar
-1. Execute os scripts na ordem (01 a 04).
+1. Execute os scripts do arquivo anexado
 2. Certifique-se de importar o arquivo `listings.csv` na tabela de staging antes de rodar o processo de ETL.
